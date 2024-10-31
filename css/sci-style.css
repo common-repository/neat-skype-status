@@ -1,0 +1,22 @@
+.sk_footer{
+/* Style for floating skype button */
+left:1px;  /* How far from left side. Change this to right: 1px; to put it on the right of the screen */
+top:350px; /* How far from the top */
+position:fixed !important; /* This makes it float */
+
+/* Uncoment this for transparent background */
+/*zoom: 1;*/
+/*filter: alpha(opacity=50);*/
+/*opacity: 0.5;*/
+
+}
+
+.sk_shortcode{
+/* Style for shortcode skype buttons */
+
+}
+
+.sk_widget{
+/* Style for widget skype buttons */
+
+}
